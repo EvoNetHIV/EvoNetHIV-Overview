@@ -1,3 +1,5 @@
+VERY PRELIMINARY DRAFT: WORK IN PROGRESS
+================
 EvoNetHIV -- Agent based model for simulating HIV epidemics
 ================
 Evonet Team: Steven Goodreau, Joshua Herbeck, John Mittler, James Murphy\*, Kathryn Peebles, Sarah Stansfield, Juandylan Burke, Neil Abernethy, Geoffrey Gottlieb
