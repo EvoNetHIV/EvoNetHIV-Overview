@@ -15,3 +15,8 @@ Below are two examples of VL progression. The top figure shows a progression for
 
 ![](./img/vlfig1.png)
 ![](./img/vlfig2.png)
+
+## CD4 progression overview
+Categorical values (1,2,3,4), Cori and Pickles, etc.
+
+![](./img/cd4_1.png)
