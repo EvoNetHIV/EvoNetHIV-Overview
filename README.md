@@ -16,7 +16,6 @@ At infection, agent's viral load (VL) begins at initial VL value of 1e-4. The fo
 Below are two examples of VL progression. The top figure shows a progression for an agent that has a low SPVL. This results in the chronic phase starting at the low SPVL a noticeable increase in VL occurs at the beginning of the AIDS stage. The bottom figure shows a VL progression for a high SPVL, which results in a shorter chronic phase and faster time to AIDS and earlier death.
 
 ![](./img/vlfig1.png)
-![](./img/vlfig2.png)
 
 ## CD4 progression overview
 Categorical values (1,2,3,4), Cori and Pickles, etc.
