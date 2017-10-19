@@ -21,3 +21,12 @@ The figure below shows a progression for an agent that has a low SPVL. This resu
 Categorical values (1,2,3,4), Cori and Pickles, etc.
 
 ![](./img/cd41b.png)
+
+## Transmission dynamics
+Hetero vs. MSM, risk factors (age, STI status, condom use, MSM roles, etc.)
+
+![](./img/trans1.png)
+
+![](./img/trans2.png)
+
+
