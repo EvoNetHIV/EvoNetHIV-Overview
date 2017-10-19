@@ -20,4 +20,4 @@ The figure below shows a progression for an agent that has a low SPVL. This resu
 ## CD4 progression overview
 Categorical values (1,2,3,4), Cori and Pickles, etc.
 
-![](./img/cd4_1.png)
+![](./img/cd41b.png)
