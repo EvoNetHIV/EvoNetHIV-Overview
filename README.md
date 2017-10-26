@@ -11,7 +11,7 @@ EvonetHIV is a stochastic agent-based simulation model that incorporates sexual 
 
 [EvoNet Technical Summary](./files/EvoNet_Technical_Summary.pdf)  
 [Overview of model dynamics](./overview_link.md)  
-[Quick start example](./Quick_start_overview.md)  
+[Annotated EvoNet run script](./Quick_start_overview.md)  
 [Agent attributes overview](./EvoNet_Agent_Attributes_Overview.md)
 
 
