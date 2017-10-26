@@ -3,18 +3,18 @@ At infection, agent's viral load (VL) begins at initial VL value of 1e-4. The fo
 
 The figure below shows a progression for an agent that has a low SPVL. This results in the chronic phase starting at the low SPVL and a noticeable increase in VL occurs at the beginning of the AIDS stage. 
 
-![](./img/vlfig1b.png)
+![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/vlfig1b.png)
 
 ## CD4 progression overview
 Categorical values (1,2,3,4), Cori and Pickles, etc.
 
-![](./img/cd41b.png)
+![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/cd41b.png)
 
 ## Transmission dynamics
 Hetero vs. MSM, risk factors (age, STI status, condom use, MSM roles, etc.)
 
-![](./img/trans1.png)
+![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/trans1.png)
 
-![](./img/trans2.png)
+![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/trans2.png)
 
 
