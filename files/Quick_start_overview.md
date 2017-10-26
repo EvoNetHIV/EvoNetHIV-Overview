@@ -98,8 +98,7 @@ Run the simulation using EpiMode's 'netsim' function
                                 control = evocontrol)
 ```
 
-Initial network plot (colored circles represent infected agents). (Day 2 is first day of simulation as model initialization is considered day 1.)
-
+Initial network plot will be plotted by default at simulation start (colored circles represent infected agents). (Day 2 is first day of simulation as model initialization is considered day 1.)
 ![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/example_initial_network.png)
 
 Save model output. Default location is current working directory.
