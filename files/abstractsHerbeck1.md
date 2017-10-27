@@ -1,0 +1,8 @@
+## Herbeck et al. HIV population-level adaptation can rapidly diminish the impact of a partially effective vaccine.
+### Abstract  
+### Background  
+Development of an HIV vaccine is essential to ending the HIV/AIDS pandemic. However, vaccines can result in the emergence and spread of vaccine-resistant strains. Indeed, analyses of breakthrough infections in the HIV phase 3 vaccine trial RV144 identified HIV genotypes with differential rates of transmission in vaccine and placebo recipients. We hypothesized that, for HIV vaccination programs based on partially effective vaccines similar to RV144, HIV adaptation will rapidly diminish the expected vaccine impact.
+### Methods and Findings  
+Using two HIV epidemic models, we simulated large-scale vaccination programs and, critically, included HIV strain diversity with respect to the vaccine response. We show here that rapid population-level viral adaptation can lead to decreased overall vaccine efficacy and substantially fewer infections averted by vaccination, when comparing scenarios with and without viral evolution (with outcomes depending on vaccination coverage, vaccine efficacy against the sensitive allele, and the initial resistant allele frequency). Translating this to the epidemic in South Africa, a scenario with 70% vaccination coverage may result in 250,000 infections (non-averted by vaccination) within 10 years of vaccine rollout that are due solely to HIV adaptation, all else being equal.
+Conclusions
+These findings suggest that approaches to HIV vaccine development, program implementation, and epidemic modeling may require attention to viral adaptation in response to vaccination
