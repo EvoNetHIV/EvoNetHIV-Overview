@@ -19,5 +19,5 @@ In Prep / Submitted papers
 
 [Goodreau SM, Stansfield SE, Murphy JT, Peebles KC, Gottlieb GS, Abernethy NF, Herbeck JT, Mittler JE. (submitted). Sexual network structure, HIV prevalence, and the evolution of set point viral load.](./files/abstractsGoodreau1.md)    
 
-
+[Herbeck et al. HIV population-level adaptation can rapidly diminish the impact of a partially effective vaccine.](./files/abstractsHerbeck1.md)
 
