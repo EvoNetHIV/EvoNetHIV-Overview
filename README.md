@@ -13,7 +13,7 @@ Model Information (in progress)
 
 [EvoNet Technical Summary](./files/EvoNet_Technical_Summary.pdf)  
 [Overview of model dynamics](./files/overview_link.md)  
-[Annotated EvoNet run script](./files/Quick_start_overview.md)  
+[Annotated EvoNet run script (simple example)](./files/Quick_start_overview.md)  
 [Agent attributes overview](./files/EvoNet_Agent_Attributes_Overview.md)  
 User Guide and Tutorials (coming soon)
 
