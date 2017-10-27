@@ -16,7 +16,7 @@ Model Information (in progress)
 [Annotated EvoNet run script](./files/Quick_start_overview.md)  
 [Agent attributes overview](./files/EvoNet_Agent_Attributes_Overview.md)
 
-In Prep / Submitted papers
+Abstracts for In Prep / Submitted papers
 
 [Goodreau SM, Stansfield SE, Murphy JT, Peebles KC, Gottlieb GS, Abernethy NF, Herbeck JT, Mittler JE. (submitted). Sexual network structure, HIV prevalence, and the evolution of set point viral load.](./files/abstractsGoodreau1.md)    
 
