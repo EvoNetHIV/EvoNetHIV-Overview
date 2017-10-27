@@ -22,3 +22,4 @@ Abstracts for In Prep / Submitted papers
 
 [Herbeck et al. HIV population-level adaptation can rapidly diminish the impact of a partially effective vaccine.](./files/abstractsHerbeck1.md)
 
+[Mittler et al. Agent-based network model predicts strong benefits to youth-centered HIV treatment-as-prevention efforts.](./files/abstractsMittler1.md)
