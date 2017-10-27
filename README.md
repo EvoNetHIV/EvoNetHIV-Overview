@@ -9,7 +9,7 @@ EvonetHIV is a stochastic agent-based simulation model that incorporates sexual 
 
 ![](./img/Prev_mean_degree_network_pic.png)
 
-Model Information (in progress)  
+#### Model Information (in progress)  
 
 [EvoNet Technical Summary](./files/EvoNet_Technical_Summary.pdf)  
 [Overview of model dynamics](./files/overview_link.md)  
@@ -17,7 +17,7 @@ Model Information (in progress)
 [Agent attributes overview](./files/EvoNet_Agent_Attributes_Overview.md)  
 User Guide and Tutorials (coming soon)
 
-Abstracts for In Prep / Submitted papers
+#### Abstracts for In Prep / Submitted papers
 
 [Goodreau SM, Stansfield SE, Murphy JT, Peebles KC, Gottlieb GS, Abernethy NF, Herbeck JT, Mittler JE. (submitted). Sexual network structure, HIV prevalence, and the evolution of set point viral load.](./files/abstractsGoodreau1.md)    
 
