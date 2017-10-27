@@ -112,3 +112,8 @@ plots_popsumm(evomodel,outpath=evoparams$output_path,
               name=NULL,nw_stats=TRUE,max_points_rep=100,
               evoparams$popsumm_frequency)
 ```
+
+Example of two default output plots
+![](https://github.com/EvoNetHIV/EvoNetHIV-Overview/blob/master/img/example_output_plots1.png)
+
+
